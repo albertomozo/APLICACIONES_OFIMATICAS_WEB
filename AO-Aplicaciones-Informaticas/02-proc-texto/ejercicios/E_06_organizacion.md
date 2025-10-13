@@ -1,0 +1,3 @@
+El formato de evaluación presentado es claro, detallado y cubre todos los aspectos relevantes para la entrega y valoración del ejercicio. Incluye apartados bien definidos, criterios de evaluación cuantificados y requisitos mínimos explícitos, lo que facilita tanto la preparación del documento como su revisión.
+
+Si deseas ajustar algo, podrías especificar ejemplos de roles adicionales, detallar el medio de entrega (plataforma, email, etc.), o añadir un apartado para observaciones del profesor. Si no, el formato actual es adecuado y completo.
