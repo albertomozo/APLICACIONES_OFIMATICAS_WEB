@@ -1,0 +1,115 @@
+ESTRUCTURA DE CURSO: Procesadores de Texto mediante Guías Rápidas
+Objetivo general
+
+Capacitar al alumnado para crear, formatear y presentar documentos profesionales, aplicando de forma práctica las herramientas esenciales de un procesador de texto (Word, Writer o Google Docs).
+
+Organización general
+
+Duración sugerida: 20–30 horas.
+
+Metodología: aprendizaje guiado con guías rápidas + ejercicios prácticos + proyecto final.
+
+Formato: 1 guía por sesión o bloque temático.
+
+Evaluación: ejercicios aplicados y un documento final completo.
+
+Estructura tipo de cada guía
+
+Cada guía mantiene el mismo formato para facilitar el aprendizaje:
+
+Título del tema
+
+Objetivo de la guía
+
+Conceptos clave (Qué es / Para qué sirve)
+
+Opciones principales o pasos esenciales
+
+Comparativa entre Word / Writer / Google Docs
+
+Consejos y buenas prácticas
+
+Ejercicio rápido
+
+Ejercicio aplicado o mini-proyecto
+
+INDICE POR MÓDULOS
+Módulo 1: Introducción y entorno
+
+Guía 1 – Conocer el procesador de textos
+
+Qué es un procesador. Partes de la interfaz. Tipos de vistas.
+
+Ejercicio: crear y guardar un documento.
+
+Guía 2 – Crear, guardar y organizar documentos
+
+Diferencias entre “Guardar” y “Guardar como”.
+
+Formatos (.docx, .odt, .pdf). Versiones y recuperación.
+
+Módulo 2: Formato básico
+
+Guía 3 – Dar formato al texto
+
+Fuente, tamaño, color, estilos, alineaciones.
+
+Ejercicio: hoja informativa con diferentes estilos.
+
+Guía 4 – Párrafos, interlineado y sangrías
+
+Espaciado, tabulaciones y viñetas.
+
+Ejercicio: redactar un informe con párrafos y listas.
+
+Módulo 3: Estructura de documento
+
+Guía 5 – Opciones de página ✅ (la que ya has hecho)
+
+Márgenes, orientación, tamaño, encabezados y pies.
+
+Ejercicio: documento con portada y numeración.
+
+Guía 6 – Estilos y formatos automáticos
+
+Usar estilos predefinidos. Crear estilos propios.
+
+Índice automático.
+
+Ejercicio: informe con título y subtítulos numerados.
+
+Módulo 4: Elementos gráficos y tablas
+
+Guía 7 – Insertar imágenes y dar formato
+
+Posición, ajuste de texto, bordes.
+
+Ejercicio: cartel informativo.
+
+Guía 8 – Tablas, gráficos y listas avanzadas
+
+Crear, combinar celdas, aplicar estilos.
+
+Ejercicio: tabla comparativa o calendario.
+
+Módulo 5: Automatización y diseño profesional
+
+Guía 9 – Plantillas y formularios simples
+
+Reutilizar formatos. Campos de texto y fecha.
+
+Guía 10 – Revisión, comentarios y control de cambios
+
+Revisión ortográfica, comentarios, versiones.
+
+Guía 11 – Preparar para impresión y exportar a PDF
+
+Configurar impresión, numerar secciones, portada sin número.
+
+Módulo 6: Proyecto final
+
+Guía 12 – Proyecto: Documento completo profesional
+
+Crear un informe, memoria o folleto aplicando todas las guías.
+
+Requisitos: portada, índice, cuerpo con tablas e imágenes, encabezado/pie y numeración.
