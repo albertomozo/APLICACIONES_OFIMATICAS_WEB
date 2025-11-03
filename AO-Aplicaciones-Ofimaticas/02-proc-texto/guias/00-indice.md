@@ -63,11 +63,13 @@ Cada guía mantiene el mismo formato para facilitar el aprendizaje:
 ### 🧾 Módulo 3: Estructura de documento
 
 5. **Guía 5 – Opciones de página**
+   [Guia](05-opciones-pagina.md)
 
    * Márgenes, orientación, tamaño, encabezados y pies.
    * Ejercicio: documento con portada y numeración.
 
 6. **Guía 6 – Estilos y formatos automáticos**
+[Guia](06-estilos-plantillas.md)
 
    * Usar estilos predefinidos. Crear estilos propios.
    * Índice automático.
@@ -78,11 +80,13 @@ Cada guía mantiene el mismo formato para facilitar el aprendizaje:
 ### 🖼️ Módulo 4: Elementos gráficos y tablas
 
 7. **Guía 7 – Insertar imágenes y dar formato**
+[Guia](07-imagenes.md)
 
    * Posición, ajuste de texto, bordes.
    * Ejercicio: cartel informativo.
 
 8. **Guía 8 – Tablas, gráficos y listas avanzadas**
+[Guia](08-tablas-graficas-listas.md)
 
    * Crear, combinar celdas, aplicar estilos.
    * Ejercicio: tabla comparativa o calendario.
@@ -92,6 +96,7 @@ Cada guía mantiene el mismo formato para facilitar el aprendizaje:
 ### 🧩 Módulo 5: Automatización y diseño profesional
 
 9. **Guía 9 – Plantillas y formularios simples**
+[Guia](09-plantillas-formularios.md)
 
    * Reutilizar formatos. Campos de texto y fecha.
 
