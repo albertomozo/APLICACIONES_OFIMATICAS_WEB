@@ -71,3 +71,8 @@
 ## DOCUMENTACIÓN ADICIONAL
 
 [Guía de estilos](https://gamma.app/docs/Guia-de-estilo-de-marca-Tu-manual-de-identidad-corporativa-lxami5ddlic4c2u)
+
+
+[formatos automaticos](06-estilos-formatos-automaticos.md)
+
+[estilos procesadores vs CSS](../../../RECURSOS/estilos_vs_CSS.md)

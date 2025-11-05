@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Navegación en una página</title>
+  <!--   <style>
+        :root{
+            --accent:#0b73ff;
+            --muted:#666;
+            --bg:#f7f9fc;
+            --card:#fff;
+        }
+        html { scroll-behavior: smooth; }
+        body{
+            margin:0;
+            font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+            background:var(--bg);
+            color:#222;
+            line-height:1.5;
+        }
+
+        /* Barra de navegación fija */
+        header{
+            position:fixed;
+            top:0;
+            left:0;
+            right:0;
+            background:var(--card);
+            box-shadow:0 1px 6px rgba(0,0,0,.08);
+            z-index: 1000;
+        }
+        nav{
+            max-width:1000px;
+            margin:0 auto;
+            display:flex;
+            gap:1rem;
+            align-items:center;
+            padding:0.75rem 1rem;
+        }
+        nav a{
+            color:var(--muted);
+            text-decoration:none;
+            padding:0.45rem 0.6rem;
+            border-radius:6px;
+            font-weight:600;
+            font-size:0.95rem;
+        }
+        nav a:hover{ color:var(--accent); background:rgba(11,115,255,0.06); }
+        nav a.active{ color:#fff; background:var(--accent); }
+
+        /* Espacio para contenido debajo de la barra fija */
+        main{ max-width:1000px; margin:0 auto; padding:5.25rem 1rem 3rem; }
+
+        section{
+            background:var(--card);
+            margin:1rem 0;
+            padding:1.25rem;
+            border-radius:8px;
+            box-shadow:0 1px 4px rgba(0,0,0,.04);
+        }
+        h1,h2{ margin:0 0 .5rem 0; }
+        p{ margin:.25rem 0; color:var(--muted); }
+
+        /* Pequeña mejora visual al objetivo actual (cuando se hace target) */
+        section:target{
+            outline:3px solid rgba(11,115,255,0.12);
+            transform: translateY(-2px);
+        }
+
+        /* Responsive */
+        @media (max-width:600px){
+            nav{ gap:.5rem; padding:.6rem; }
+            nav a{ font-size:.9rem; padding:.4rem .5rem; }
+        }
+    </style> -->
+    <style>
+        section {
+            height: 400px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav aria-label="Navegación principal">
+            <a href="#inicio" class="nav-link" data-target="inicio">Inicio</a>
+            <a href="#quienes" class="nav-link" data-target="quienes">Quiénes somos</a>
+            <a href="#objetivo" class="nav-link" data-target="objetivo">Objetivo</a>
+            <a href="#contacto" class="nav-link" data-target="contacto">Contacto</a>
+        </nav>
+    </header>
+
+    <main>
+        <section id="inicio" tabindex="-1" aria-labelledby="titulo-inicio">
+            <h1 id="titulo-inicio">Inicio</h1>
+            <p>Bienvenido. Esta es una página de ejemplo con navegación interna de una sola página.</p>
+        </section>
+
+        <section id="quienes" tabindex="-1" aria-labelledby="titulo-quienes">
+            <h2 id="titulo-quienes">Quiénes somos</h2>
+            <p>Somos un equipo dedicado a crear soluciones web simples y accesibles.</p>
+            <p>Trabajamos con buenas prácticas y diseño centrado en el usuario.</p>
+        </section>
+
+        <section id="objetivo" tabindex="-1" aria-labelledby="titulo-objetivo">
+            <h2 id="titulo-objetivo">Objetivo</h2>
+            <p>El objetivo de este ejemplo es mostrar cómo estructurar enlaces internos para navegar por secciones de una sola página.</p>
+            <ul>
+                <li>Enlaces con anchors (#id)</li>
+                <li>Scroll suave</li>
+                <li>Indicador visual de la sección activa</li>
+            </ul>
+        </section>
+
+        <section id="contacto" tabindex="-1" aria-labelledby="titulo-contacto">
+            <h2 id="titulo-contacto">Contacto</h2>
+            <p>¿Preguntas? Escribe a <a href="mailto:info@ejemplo.com">info@ejemplo.com</a> o usa el formulario (demo):</p>
+            <form onsubmit="event.preventDefault(); alert('Formulario demo enviado');" style="display:grid;gap:.5rem;max-width:480px;">
+                <input type="text" placeholder="Nombre" required style="padding:.5rem;border:1px solid #ddd;border-radius:6px">
+                <input type="email" placeholder="Correo" required style="padding:.5rem;border:1px solid #ddd;border-radius:6px">
+                <textarea placeholder="Mensaje" rows="4" required style="padding:.5rem;border:1px solid #ddd;border-radius:6px"></textarea>
+                <button type="submit" style="background:var(--accent);color:#fff;padding:.6rem .75rem;border:none;border-radius:6px;cursor:pointer">Enviar</button>
+            </form>
+        </section>
+    </main>
+
+    <!-- <script>
+        // Marcar enlace activo según la sección en vista (simple)
+        const links = document.querySelectorAll('.nav-link');
+        const sections = Array.from(links).map(l => document.getElementById(l.dataset.target));
+
+        function setActive() {
+            const offset = 120; // considerar header fijo
+            const scrollPos = window.scrollY + offset;
+            let activeIndex = 0;
+            for (let i = 0; i < sections.length; i++) {
+                if (sections[i].offsetTop <= scrollPos) activeIndex = i;
+            }
+            links.forEach((a,i)=> a.classList.toggle('active', i === activeIndex));
+        }
+
+        window.addEventListener('scroll', setActive, { passive:true });
+        window.addEventListener('load', setActive);
+        // Mejora de accesibilidad: focus en sección al navegar por enlaces
+        links.forEach(a=>{
+            a.addEventListener('click', (e)=>{
+                const id = a.getAttribute('href').slice(1);
+                const sec = document.getElementById(id);
+                // pequeño retraso para esperar al scroll suave
+                setTimeout(()=> sec?.focus(), 400);
+            });
+        });
+    </script> -->
+</body>
+</html>
