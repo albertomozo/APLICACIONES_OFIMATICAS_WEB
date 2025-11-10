@@ -103,10 +103,13 @@ Cada guía mantiene el mismo formato para facilitar el aprendizaje:
 10. **Guía 10 – Revisión, comentarios y control de cambios**
 
     * Revisión ortográfica, comentarios, versiones.
+[Guia](10-revision-comentarios.md)
 
 11. **Guía 11 – Preparar para impresión y exportar a PDF**
 
     * Configurar impresión, numerar secciones, portada sin número.
+[Guia](11-impresion-exportacion.md)
+
 
 ---
 

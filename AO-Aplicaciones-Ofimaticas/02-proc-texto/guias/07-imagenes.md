@@ -93,6 +93,8 @@ Las imágenes ayudan a:
 
 ---
 
+![imagen - alineacion texto](imagenes/07-imagenes.png "alineacion texto en WORD y GOOGLE")
+
 ## 🧠 **3. Consejos prácticos**
 
 ✅ Inserta imágenes con buena resolución, pero sin que aumenten mucho el tamaño del archivo.
