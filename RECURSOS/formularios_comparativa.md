@@ -146,5 +146,10 @@ Solución todo-en-uno con miles de plantillas, integraciones de pago, firmas ele
 
 Se aconseja a los profesionales que evalúen sus necesidades no solo en el presente, sino también con una visión a futuro. Antes de comprometerse con una plataforma, es fundamental considerar la escalabilidad, la profundidad de las integraciones requeridas y la posible complejidad de los flujos de trabajo que se deseen implementar a mediano y largo plazo. La elección correcta transforma un formulario de una simple utilidad de recolección a un motor central de automatización, convirtiendo los puntos de entrada de datos en el sistema nervioso digital de la organización.
 
+[Investigacion chatgpt](
+https://chatgpt.com/s/t_6910d3bc8de88191b2c59ffcb7cbd409)
 
+[Mapa mental formularios (notebooklm -permiso)](https://notebooklm.google.com/notebook/3bfa24d3-e803-4d84-b84e-bc24a3e1edd5)
+
+![imagen mapa mental (png)](formularios_mapamental_00.png)
 
