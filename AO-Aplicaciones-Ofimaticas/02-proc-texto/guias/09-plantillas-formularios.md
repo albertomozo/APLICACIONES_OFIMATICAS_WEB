@@ -151,5 +151,8 @@ Diseña un formulario con:
 💡 *Reto adicional:* vincula este formulario a una hoja de cálculo o base de datos para registrar automáticamente los datos (versión avanzada).
 
 ---
+## FORMULARIOS: Comparativa de escenarios y recomendaciones
+
+[guia comparativa](09-formularios-comparativa.md)
 
 

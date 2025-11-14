@@ -4,6 +4,9 @@
 
 Aquí tienes el esquema adaptado para principiantes, con explicaciones claras y ejercicios sencillos pensados para personas con poca experiencia en informática y correo electrónico.[^1][^2][^3][^4]
 
+https://www.youtube.com/playlist?list=PL-fFBAdkofCQAfZNC1MpaDSU0m0iEh80N
+
+
 ***
 
 ## Instalación de aplicaciones de correo y agenda
@@ -52,8 +55,18 @@ Aquí tienes el esquema adaptado para principiantes, con explicaciones claras y 
 
 ## Gestión de la agenda
 
+
+
 - Crear cita, evento, aviso y tarea, con guía paso a paso.
 - Visualización del calendario y organización semanal.
+
+  Google calendar 
+    <!-- https://www.youtube.com/watch?v=0xMCYgtLIJI -->
+    https://www.youtube.com/watch?v=BXP_hpq3Y-k
+  Ms Calendar
+    https://www.youtube.com/watch?v=sgF9lLFqjv0
+
+
 - Ejercicio: Agendar un evento y añadir un recordatorio.
 
 
@@ -100,27 +113,27 @@ Este esquema está pensado para aprendizaje autónomo o guiado, y utiliza ejerci
 
 [^1]: https://puntovuelaalgarrobo.com/ejercicios-practicar-correo-electronico/
 
-[^2]: https://www.softonic.com/articulos/guia-basica-correo-electronico
 
-[^3]: https://training.digitallearn.org/courses/conceptos-basicos-del-correo-electronico-49451c51-65b1-4bc5-8704-d98887a2eb4e/course_materials_files/1523
+
+
 
 [^4]: https://cefora.es/cursos/curso-de-gestion-del-correo-electronico-y-de-la-agenda/
 
-[^5]: https://www.youtube.com/watch?v=0xMCYgtLIJI
+
 
 [^6]: https://sarreplec.caib.es/mod/resource/view.php?id=9862
 
 [^7]: https://early.app/es/blog/how-to-use-a-planner/
 
-[^8]: https://www.youtube.com/watch?v=BXP_hpq3Y-k
 
-[^9]: https://www.youtube.com/watch?v=sgF9lLFqjv0
+
+
 
 [^10]: https://formacionuniversitaria.com/producto/curso-de-gestion-del-correo-electronico-y-de-la-agenda/
 
 [^11]: https://www.studocu.com/es/document/instituto-de-educacion-secundaria-enrique-de-arfe/lengua-castellana-y-literatura/ut-4-correo-y-agenda-electronica/76483628
 
-[^12]: https://www.youtube.com/playlist?list=PL-fFBAdkofCQAfZNC1MpaDSU0m0iEh80N
+
 
 [^13]: https://support.microsoft.com/es-es/office/introducción-al-calendario-de-outlook-d94c5203-77c7-48ec-90a5-2e2bc10bd6f8
 
@@ -133,8 +146,6 @@ Este esquema está pensado para aprendizaje autónomo o guiado, y utiliza ejerci
 [^17]: https://profesoradeinformatica.com/usar-google-calendar/
 
 [^18]: http://descargas.intef.es/recursos_educativos/It_didac/Leng_Pri/5/03/02_correo_electronico/practicamos.html
-
-[^19]: https://www.youtube.com/watch?v=w6APAOFVpIo
 
 [^20]: https://www.scribd.com/document/722130487/APLICACIONES-DE-CORREO-ELECTRONICO-Y-AGENDA-ELECTRONICA
 
