@@ -20,10 +20,16 @@ Que los alumnos comprendan cómo **crear y gestionar formularios** dentro de los
 **2.1 Microsoft Word**
 
 * Activa la pestaña *Desarrollador*. ([Adobe][1])
+![pestaña desarrolasor](imagenes/09-word_programador.png)
+
 * Insertar campos de contenido: cuadro de texto, casillas de verificación, desplegables. ([Jotform][2])
+![campos contenido](imagenes/09-word_barra_formulario.png)
 * Proteger el formulario para que sólo se rellenen los campos.
 * Guardar y distribuir (como .docx, .pdf).
 * Ventajas / limitaciones: buena para distribución cerrada, menos potente para recopilar respuestas en línea.
+
+**  recomedación ** 
+Usar plantillas y modificarlas. Nos vamos a simplificar mucho la vida.
 
 **2.2 LibreOffice Writer**
 
@@ -31,6 +37,10 @@ Que los alumnos comprendan cómo **crear y gestionar formularios** dentro de los
 * Definir propiedades de controles, proteger el documento.
 * Exportar como PDF interactivo.
 * Uso ideal para ambientes de oficina donde no se requiere entrada online.
+
+![writer formualario](imagenes/09-writer-formularios.png)
+
+
 
 **2.3 Google Docs**
 

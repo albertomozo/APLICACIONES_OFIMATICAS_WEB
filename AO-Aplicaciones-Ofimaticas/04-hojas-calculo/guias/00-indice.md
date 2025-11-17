@@ -1,16 +1,4 @@
-## Filosofía de la Documentación Dual: "Mismo Concepto, Distinta Herramienta"
 
-Tu documentación debe tener una sección principal para el **Concepto (El "Qué" y el "Por qué")**, que es 99% idéntico en ambas plataformas. Luego, tendrás sub-secciones para la **Implementación (El "Cómo")**.
-
-**Estructura de cada tema:**
-
-1.  **Concepto:** ¿Qué es una referencia absoluta? (Es universal).
-2.  **Implementación:**
-    * 🔵 **[Excel]:** Así se aplica (ej. atajo F4).
-    * 🟢 **[Google Sheets]:** Así se aplica (ej. atajo F4).
-3.  **Diferencia Clave (Si existe):** *En Google Sheets, además, puedes hacer esto...*
-
----
 
 ## Estructura Modular Dual (Excel y Google Sheets) - 50 Horas
 
@@ -24,6 +12,8 @@ Tu documentación debe tener una sección principal para el **Concepto (El "Qué
 * **Enfoque Dual: El "Alcance" - Colaboración vs. Escritorio**
     * 🔵 **[Excel]:** Foco en el trabajo *offline* y potencia de escritorio. (Aunque Excel Online existe).
     * 🟢 **[Google Sheets]:** Foco en la **colaboración** en tiempo real. Este es su ADN. Debe ser el primer ejemplo práctico de Sheets (compartir un archivo y editarlo dos personas a la vez).
+
+    [!Modulo 1](01-fundamentos.md)
 
 ### Módulo 2: Fórmulas y Funciones Básicas (Aprox. 8 horas)
 
