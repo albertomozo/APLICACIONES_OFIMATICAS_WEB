@@ -120,7 +120,21 @@ Usar plantillas y modificarlas. Nos vamos a simplificar mucho la vida.
 
 ---
 
-¿Te gustaría que redacte este manual completo como **documento base (.docx o .odt)**, listo para entregar a los alumnos, con estructura, cabeceras, espacio para anotaciones y referencias a las herramientas? Puedo generarlo y enviártelo para que adaptes según tu curso.
+### ANEXO
+
+[Ramificacion de formularios](https://gamma.app/docs/Tecnicas-de-Ramificacion-en-Formularios--s2jcbffqc4yg3oc)
+
+#### otros servicios de formularios
+
+https://typeform.com
+https://tally.com
+
+### ENLACES
+
+
+[comparativa NOTEBOOKLM]()
+
+
 
 [1]: https://www.adobe.com/acrobat/hub/make-a-fillable-form-in-word.html?utm_source=chatgpt.com "How to create a fillable form in Microsoft Word | Adobe Acrobat"
 [2]: https://www.jotform.com/blog/how-to-create-a-fillable-form-in-word/?utm_source=chatgpt.com "How to create a fillable form in Microsoft Word"
