@@ -2,7 +2,7 @@
 
 # GUIA CORREO ELECTRONICO 
 
-Aquí tienes el esquema adaptado para principiantes, con explicaciones claras y ejercicios sencillos pensados para personas con poca experiencia en informática y correo electrónico.[^1][^2][^3][^4]
+Ofimática básica. Correo
 
 https://www.youtube.com/playlist?list=PL-fFBAdkofCQAfZNC1MpaDSU0m0iEh80N
 
@@ -60,10 +60,10 @@ https://www.youtube.com/playlist?list=PL-fFBAdkofCQAfZNC1MpaDSU0m0iEh80N
 - Crear cita, evento, aviso y tarea, con guía paso a paso.
 - Visualización del calendario y organización semanal.
 
-  Google calendar 
+**Google calendar** 
     <!-- https://www.youtube.com/watch?v=0xMCYgtLIJI -->
     https://www.youtube.com/watch?v=BXP_hpq3Y-k
-  Ms Calendar
+**Ms Calendar**
     https://www.youtube.com/watch?v=sgF9lLFqjv0
 
 

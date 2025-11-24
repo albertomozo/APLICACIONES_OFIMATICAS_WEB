@@ -132,7 +132,7 @@ https://tally.com
 ### ENLACES
 
 
-[comparativa NOTEBOOKLM]()
+[comparativa NOTEBOOKLM](https://github.com/albertomozo/APLICACIONES_OFIMATICAS_WEB/blob/main/RECURSOS/formularios_comparativa.md)
 
 
 

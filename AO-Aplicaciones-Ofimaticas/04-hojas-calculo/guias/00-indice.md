@@ -1,6 +1,7 @@
-
-
 ## Estructura Modular Dual (Excel y Google Sheets) - 50 Horas
+
+[Introducción a las hojas de Calculo](https://gamma.app/docs/Fundamentos-de-Hojas-de-Calculo-qcnzjzn589wnpxw?mode=doc)
+
 
 ### Módulo 1: Fundamentos (Aprox. 6 horas)
 
@@ -91,4 +92,3 @@ Te sugiero incluir esta tabla en tu documentación para que los alumnos entienda
 | **Rendimiento** | **Superior** para archivos muy grandes (cientos de miles de filas). | Más lento con archivos muy grandes, depende de la conexión a internet. |
 | **Costo** | Licencia (Pago) | Gratuito |
 
-Con este enfoque dual, tus alumnos saldrán del curso entendiendo la lógica de la herramienta, dándoles la flexibilidad de usar cualquiera de las dos plataformas profesionalmente.
