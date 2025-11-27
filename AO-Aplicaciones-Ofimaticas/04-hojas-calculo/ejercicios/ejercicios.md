@@ -1,7 +1,3 @@
-¡Perfecto! A continuación te presento una **lista completa de enunciados de ejercicios de hojas de cálculo** diseñados para seguir el **guion modular dual** que estás trabajando (Excel y Google Sheets). Puedes usar estos ejercicios para prácticas guiadas, evaluaciones o tareas para los alumnos.
-
----
-
 # 📘 Ejercicios Completo por Módulos – Guía de Hojas de Cálculo (Excel y Google Sheets)
 
 ---

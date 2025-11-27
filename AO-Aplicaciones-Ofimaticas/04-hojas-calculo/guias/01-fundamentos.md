@@ -16,6 +16,7 @@ Las **hojas de cálculo** son herramientas digitales que permiten **organizar, p
 | **Fila**    | Conjunto horizontal de celdas (numeradas).                                                      |
 | **Columna** | Conjunto vertical de celdas (letras).                                                           |
 | **Hoja**    | Página de trabajo que contiene filas y columnas. Varias hojas pueden formar un libro o archivo. |
+| **Libro**    | Archivo fisico o en la nube que contiene Hojas. |
 
 ---
 
@@ -93,12 +94,15 @@ Las **hojas de cálculo** son herramientas digitales que permiten **organizar, p
 
 | Concepto       | Excel                           | Google Sheets                  |
 | -------------- | ------------------------------- | ------------------------------ |
-| Interfaz       | Ribbon                          | Barra de menús                 |
+| Interfaz       | Ribbon / Cintas                       | Barra de menús                 |
 | Trabajo        | Prioridad local                 | Prioridad en la nube           |
 | Colaboración   | Limitada (Online mejorable)     | Nativa, en tiempo real         |
 | Compatibilidad | Máxima en entornos corporativos | Integrado con Google Workspace |
 
 > 🧩 **Pregunta guía para reflexión**:
 > ¿Para qué tipo de tareas o proyectos elegirías cada herramienta?
+
+## ENLACES 
+https://support.google.com/a/users/answer/9282959?visit_id=638997436423519392-1814573353&hl=es&rd=1#sheets-quick-start
 
 

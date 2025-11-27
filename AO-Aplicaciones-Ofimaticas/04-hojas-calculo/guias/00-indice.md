@@ -92,3 +92,14 @@ Te sugiero incluir esta tabla en tu documentación para que los alumnos entienda
 | **Rendimiento** | **Superior** para archivos muy grandes (cientos de miles de filas). | Más lento con archivos muy grandes, depende de la conexión a internet. |
 | **Costo** | Licencia (Pago) | Gratuito |
 
+
+## DOCUMENTACION 
+
+### HOJAS DE CALCULO
+
+### EXCEL
+
+[Curso en video](https://www.youtube.com/watch?v=HqXjhC7WKHE&list=PLcKbSbJyOGOYVK5ey5vErm19tdvAvQSer)
+
+ 
+### GOOGLE SHEET
