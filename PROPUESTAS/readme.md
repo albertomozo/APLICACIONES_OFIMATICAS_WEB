@@ -16,5 +16,9 @@ Analizar el tema del copyright. Licencias. (Creative Common)
 
 ## IA 
 
-LA ia en la ofimática y web
+La ia en la ofimática y web
+[enlaces](../AO-Aplicaciones-Ofimaticas/IA
+)
+
+
 

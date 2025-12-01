@@ -116,4 +116,8 @@ Parte fija, parte variable:
 > 🎯 **Clave del módulo:**
 > Los rangos son la “base de operaciones” para todas las funciones. Sin ellos, la automatización y el análisis de datos no serían posibles.
 
+## ENLACES
 
+[📹 Referencias en Excel](https://www.youtube.com/watch?v=hgST3sdvHOg&list=PLcKbSbJyOGOYVK5ey5vErm19tdvAvQSer&index=13)
+
+[📖 Referencias avanzado](02-referencias-absolutas.md)

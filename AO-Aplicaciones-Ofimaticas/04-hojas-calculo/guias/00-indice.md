@@ -1,6 +1,6 @@
 ## Estructura Modular Dual (Excel y Google Sheets) - 50 Horas
 
-[Introducción a las hojas de Calculo](https://gamma.app/docs/Fundamentos-de-Hojas-de-Calculo-qcnzjzn589wnpxw?mode=doc)
+[📖 Introducción a las hojas de Calculo](https://gamma.app/docs/Fundamentos-de-Hojas-de-Calculo-qcnzjzn589wnpxw?mode=doc)
 
 
 ### Módulo 1: Fundamentos (Aprox. 6 horas)
@@ -14,7 +14,7 @@
     * 🔵 **[Excel]:** Foco en el trabajo *offline* y potencia de escritorio. (Aunque Excel Online existe).
     * 🟢 **[Google Sheets]:** Foco en la **colaboración** en tiempo real. Este es su ADN. Debe ser el primer ejemplo práctico de Sheets (compartir un archivo y editarlo dos personas a la vez).
 
-    [!Modulo 1](01-fundamentos.md)
+    [📕 Modulo 1](01-fundamentos.md)
 
 ### Módulo 2: Fórmulas y Funciones Básicas (Aprox. 8 horas)
 
@@ -23,6 +23,9 @@
     * `=SUMA(A1:A10)` funciona exactamente igual en ambas.
     * Las referencias Relativas (A1) y Absolutas ($A$1) y el atajo F4 son idénticos.
 * **Ejemplo Práctico:** El "Boletín de Notas" o "Gastos Mensuales" se construye igual en las dos.
+
+[📕 Modulo 2](02-funciones-formulas-basica.md)
+
 
 ### Módulo 3: Formato y Presentación (Aprox. 6 horas)
 
@@ -33,6 +36,8 @@
         * 🔵 **[Excel]:** *Inicio -> Formato Condicional -> Reglas...*
         * 🟢 **[Google Sheets]:** *Formato -> Formato Condicional -> Se abre panel lateral...*
 
+[📕 Modulo 3](03-formatos.md)
+
 ### Módulo 4: Gestión de Datos (Aprox. 8 horas)
 
 * **Concepto:** Ordenar y Filtrar (Idéntico).
@@ -42,6 +47,8 @@
 * **Enfoque Dual: Validación de Datos**
     * Concepto idéntico (crear listas desplegables).
     * Implementación: Los menús son diferentes. Requiere capturas de ambos.
+
+[📕 Modulo 4](04-datos.md)
 
 ### Módulo 5: Funciones Intermedias (El "Alcance") (Aprox. 10 horas)
 
@@ -81,7 +88,7 @@ Aquí es donde el enfoque dual se vuelve más importante.
 
 ## Tabla Resumen para tu Documentación (El "Alcance")
 
-Te sugiero incluir esta tabla en tu documentación para que los alumnos entiendan el "alcance" de cada una:
+
 
 | Característica | 🔵 Microsoft Excel | 🟢 Google Sheets |
 | :--- | :--- | :--- |
