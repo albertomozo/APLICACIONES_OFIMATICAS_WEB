@@ -319,6 +319,4 @@ La gestión de usuarios es esencial para la seguridad y el flujo de trabajo edit
       * Asígnale permisos específicos (ej: puede publicar, pero no borrar plugins).
       * Crea el usuario y asígnale este nuevo rol.
 
------
 
-¿Te gustaría que diseñemos un **plan de prueba** para que los alumnos verifiquen si la restricción de contenido y los roles de usuario funcionan correctamente?
