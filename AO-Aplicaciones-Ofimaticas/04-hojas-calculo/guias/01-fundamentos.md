@@ -30,8 +30,9 @@ Las **hojas de cálculo** son herramientas digitales que permiten **organizar, p
 * **Barra de fórmulas**: muestra y permite editar el contenido de una celda.
 * **Panel de hojas**: pestañas para navegar entre diferentes hojas.
 
-📷 **Incluir captura de pantalla de Excel con etiquetas.**
+![Cinta1 ](imagenes/01-Cinta_01.png)
 
+![Cinta2 ](imagenes/01-Cinta_02.png)
 > 💡 **Actividad rápida:** Identifica y etiqueta visualmente al menos 5 elementos en una captura de Excel.
 
 ---

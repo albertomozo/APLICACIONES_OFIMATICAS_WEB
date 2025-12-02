@@ -45,8 +45,8 @@ Los conceptos son idénticos en Excel y Google Sheets:
 3. Elige una regla (por ejemplo, **“Mayor que…”**).
 4. Introducir el valor y aplicar formato.
 
-📷 **(Captura recomendada)**: Menú de reglas con ejemplos de barras de datos, tonos de color, iconos.
-
+📷 **(Captura recomendada)**: Menú 
+![Formato Condicional Excel](imagenes/03-formato-condicional-Excel.png)
 ---
 
 ### 🟢 Google Sheets
@@ -57,7 +57,8 @@ Los conceptos son idénticos en Excel y Google Sheets:
 4. Añadir la condición (por ejemplo, **“La celda es mayor que 100”**).
 5. Elegir el estilo con color de fondo o texto.
 
-📷 **(Captura recomendada)**: Diseño del panel lateral con opciones como "Formato de celdas si…", reglas y vista previa.
+📷 ** Formato condicional google sheet**:
+![Formato Condicional Google Sheets](imagenes/03-formato-condicional-google.png) 
 
 ---
 
