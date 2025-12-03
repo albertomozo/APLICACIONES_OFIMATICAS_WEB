@@ -31,4 +31,6 @@ Si necesitan hacer una corrección, deben:
 2.  Abrirlo y editarlo con **Microsoft Office** en su ordenador.
 3.  Volver a subir el archivo actualizado a Drive, **reemplazando** la versión anterior.
 
-Gracias por su colaboración para garantizar un proceso de corrección eficiente.
+##  MAS INFORMACION
+
+[compatibilidad office -google workstation](compatibilidad-office-google.md)
