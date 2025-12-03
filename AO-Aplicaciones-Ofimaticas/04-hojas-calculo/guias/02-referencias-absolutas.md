@@ -240,4 +240,87 @@ Imagina que tienes una tabla de ventas y quieres calcular la comisión que obtie
 
 ---
 
+---------------------
 
+## 📑 Referencias a Hojas (Internas)
+
+Una referencia interna se usa cuando quieres vincular datos de una **hoja de cálculo diferente dentro del *mismo* archivo o libro de trabajo**. Este es el tipo de referencia más común.
+
+### 💻 En Excel
+
+El formato es directo y similar al de las referencias externas, pero **sin la parte del nombre del archivo** (los corchetes `[]`).
+
+#### Formato
+
+$$NombreDeLaHoja!CeldaORango$$
+
+#### Reglas Importantes
+
+1.  **Nombre de la Hoja:** Especifica el nombre de la hoja de donde provienen los datos.
+2.  **El `!` (Signo de Exclamación):** Siempre separa el nombre de la hoja de la celda o rango.
+3.  **Comillas Simples (`''`):** Son **obligatorias** si el nombre de la hoja contiene espacios o caracteres especiales.
+
+#### Ejemplos
+
+| Caso | Fórmula | Significado |
+| :--- | :--- | :--- |
+| **Hoja simple** | `=Ventas!A1` | Obtiene el valor de la celda A1 de la hoja llamada "Ventas". |
+| **Hoja con espacios** | `='Datos 2023'!B5` | Obtiene el valor de la celda B5 de la hoja llamada "Datos 2023". |
+| **Rango** | `=SUMA(Resumen!C:C)` | Suma todos los valores de la columna C en la hoja "Resumen". |
+
+-----
+
+### 🌐 En Google Sheets
+
+El formato y la lógica son **exactamente los mismos** que en Excel para las referencias internas.
+
+#### Formato
+
+$$NombreDeLaHoja!CeldaORango$$
+
+#### Reglas Importantes
+
+  * Si el nombre de la hoja tiene espacios, debe estar entre comillas simples (`' '`).
+
+#### Ejemplos
+
+| Caso | Fórmula | Significado |
+| :--- | :--- | :--- |
+| **Hoja simple** | `=Inventario!H2` | Obtiene el valor de la celda H2 de la hoja "Inventario". |
+| **Hoja con espacios** | `='Datos Brutos'!A10` | Obtiene el valor de la celda A10 de la hoja "Datos Brutos". |
+
+-----
+
+## 🌍 Referencias Externas (A otros archivos)
+
+Como repaso, aquí tienes la explicación de cómo vincular datos de **otro archivo** (libro de trabajo o hoja de cálculo) diferente:
+
+### 💻 Referencias Externas en Excel (Otro archivo .xlsx)
+
+Una referencia externa en Excel requiere la ruta completa, incluyendo el nombre del archivo y la extensión, entre corchetes `[]`.
+
+#### Formato de la Referencia
+
+$$='\[NombreDelArchivo.extensión]NombreDeLaHoja'!CeldaORango$$
+
+#### Ejemplo en Excel
+
+```excel
+='[InformeMensual.xlsx]Ventas'!A1
+```
+
+### 🌐 Referencias Externas en Google Sheets (Otro archivo de Sheets)
+
+En Google Sheets, se usa la función **`IMPORTRANGE`** para vincular datos de una hoja de cálculo completamente diferente (otro archivo en Drive).
+
+#### Función `IMPORTRANGE`
+
+$$=IMPORTRANGE("URL_o_ID_de_la_hoja_de_calculo", "NombreDeLaHoja!CeldaORango")$$
+
+#### Ejemplo en Google Sheets
+
+```excel
+=IMPORTRANGE("1a2b3c4d5e6f...", "DatosClientes!A1:B10")
+```
+
+(Recuerda que esta función requiere **autorización** la primera vez que se usa entre dos archivos específicos).

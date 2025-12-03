@@ -1,0 +1,11 @@
+ Concepto,Descripción,Ejemplo,Notas
+Celda,Unidad mínima de información,A1 contiene "Hola",Cada celda tiene una dirección única
+Fila,Conjunto horizontal de celdas,Fila 3 contiene datos de un alumno,Identificada por número
+Columna,Conjunto vertical de celdas,Columna B almacena precios,Identificada por letra
+Hoja,Conjunto de filas y columnas,Hoja "Ventas 2024",Puede contener múltiples tablas
+Rango,Conjunto de celdas seleccionadas,A1:C5,Se usa en fórmulas
+Libro,Archivo completo con varias hojas,ventas.xlsx,Contiene varias hojas
+Dato de texto,Información no numérica,"Juan",Alinea a la izquierda
+Dato numérico,Números enteros o decimales,123 o 45.67,Usado para cálculos
+Fecha,Valor basado en número de serie,01/03/2024,Se puede formatear
+   

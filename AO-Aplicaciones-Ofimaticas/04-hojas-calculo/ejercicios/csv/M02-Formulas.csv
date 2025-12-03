@@ -1,0 +1,10 @@
+ Datos,Rango,Fórmula aplicada,Resultado esperado
+10 + 15,A1:A2,=SUMA(A1:A2),25
+Ventas mensuales,B2:B7,=PROMEDIO(B2:B7),Promedio de valores
+Lista de precios,C2:C10,=MAX(C2:C10),Valor máximo
+Lista de notas,D2:D10,=MIN(D2:D10),Nota más baja
+Celdas con números,E2:E20,=CONTAR(E2:E20),Cuenta solo números
+Lista nombres,F2:F20,=CONTARA(F2:F20),Cuenta vacíos y texto
+Precio base en A1 + IVA en B1,A1*B1,=A1*(1+B1),Precio final
+Referencia absoluta,$A$1,=B2*$A$1,Multiplica cada fila por valor fijo
+   

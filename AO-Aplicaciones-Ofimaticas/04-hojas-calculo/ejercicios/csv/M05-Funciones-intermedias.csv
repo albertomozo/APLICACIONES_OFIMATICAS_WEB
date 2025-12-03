@@ -1,0 +1,9 @@
+  Entrada,Función,Descripción,Resultado
+85 en A2=85,=SI(A2>=50;"Aprobado";"Suspenso"),Evalúa condición,Aprobado
+Precio base 100 en A1,=A1*1.21,Cálculo IVA,121
+Tabla BUSCARX,=BUSCARX("P001";A2:A10;B2:B10),Busca producto,"Nombre producto"
+Ventas en B2:B20,=SUMAR.SI(C2:C20;"Norte";B2:B20),Suma por región,Suma región norte
+Valores en A2:A10,=MAX(A2:A10)-MIN(A2:A10),Rango numérico,Diferencia
+Texto en A1,=LARGO(A1),Cuenta caracteres,Número
+Lista,=UNIQUE(A2:A20),Valores únicos,Lista sin duplicados
+  

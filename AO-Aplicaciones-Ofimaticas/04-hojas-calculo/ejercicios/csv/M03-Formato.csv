@@ -1,0 +1,8 @@
+    Dato,Formato aplicado,Observaciones
+1500,Moneda,"€1,500.00"
+0.253,Porcentaje,"25.30%"
+15/03/2024,Fecha,"15/03/2024"
+"ALERTA",Color rojo,"Formato condicional"
+85,Iconos (flechas),"Tendencia positiva"
+"pendiente",Subrayado,Resaltar estado
+15000,Número con separador,"15,000"

@@ -1,0 +1,10 @@
+    Campo,Valor,Categoría,Filtro,Ordenación
+Producto,Teclado,Informática,Activos,A-Z
+Producto,Ratón,Informática,Activos,A-Z
+Producto,Monitor,Electrónica,Activos,Z-A
+Cantidad,25,Stock,>10,Ascendente
+Cantidad,8,Stock,<10,Ascendente
+Estado,Disponible,Inventario,==Disponible,—
+Estado,Agotado,Inventario,==Agotado,—
+Proveedor,TechCorp,Proveedores,Todos,A-Z
+Proveedor,DataPlus,Proveedores,Todos,Z-A
