@@ -10,6 +10,8 @@
 
 ---
 
+![Funciones](imagenes/05-funciones.png)
+
 # 5.1 Concepto Común: Funciones Lógicas y de Búsqueda
 
 Estas funciones funcionan *idénticas* en Excel y Google Sheets.

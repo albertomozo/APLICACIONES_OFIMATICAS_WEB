@@ -118,6 +118,8 @@ Parte fija, parte variable:
 
 ## ENLACES
 
+[📖Presentación Funciones](https://gamma.app/docs/Funciones-y-Argumentos-en-Excel-5ko0ub3gsdvdcv8)
+
 [📹 Referencias en Excel](https://www.youtube.com/watch?v=hgST3sdvHOg&list=PLcKbSbJyOGOYVK5ey5vErm19tdvAvQSer&index=13)
 
 [📖 Referencias avanzado](02-referencias-absolutas.md)

@@ -115,6 +115,12 @@ Pasos:
 
 ---
 
+## Esquema de proyecto
+
+![Categorias](materiales/categorias.png)
+
+---
+
 # 📰 **4. Banners Publicitarios**
 
 Crear un **widget** de imagen o HTML con un banner.
