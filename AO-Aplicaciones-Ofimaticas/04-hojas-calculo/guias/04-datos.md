@@ -65,9 +65,9 @@ Excel incluye una función clave: **Formato como tabla**.
 
 ---
 
-## 🟢 Google Sheets: *Vistas de Filtro*
+## 🟢 Google Sheets: *Vistas de Filtro* y *Tablas* (NUEVO)
 
-Google Sheets no tiene un “Formato como tabla”, pero sí una alternativa muy poderosa para equipos:
+Google Sheets ha evolucionado considerablemente y ahora ofrece múltiples opciones para estructurar datos:
 
 ### ⭐ Vistas de filtro
 
@@ -88,6 +88,35 @@ Esto es esencial en documentos colaborativos.
 
 > 💡 **Ideal para trabajos en equipo:**
 > Cada alumno puede filtrar su parte de la tabla sin molestar al resto.
+
+---
+
+### 🆕 Tablas en Google Sheets (Novedad 2024-2025)
+
+Google Sheets ha introducido recientemente la función **Tablas**, que acerca Google Sheets a las capacidades de Excel:
+
+#### ¿Qué aportan las Tablas?
+
+* **Formato automático:** Estilos profesionales sin necesidad de configuración manual.
+* **Filtros integrados:** Botones de filtro en los encabezados (similar a Excel).
+* **Rango dinámico:** La tabla se expande automáticamente al añadir datos.
+* **Mejor manejo de datos:** Facilita la ordenación, filtrado y análisis de información.
+* **Compatibilidad con fórmulas:** Mejora el trabajo con referencias y cálculos.
+
+#### ¿Cómo crear una Tabla?
+
+1. Selecciona un rango de datos con encabezados.
+2. Menú **Insertar → Tabla**.
+3. Google Sheets convierte automáticamente el rango en una tabla formateada.
+
+📘 **Resultado:** Obtienes una estructura similar a Excel "Formato como Tabla", manteniendo las ventajas colaborativas de Google Sheets.
+
+> 💡 **Ventaja actual:**
+> Google Sheets ahora combina lo mejor de ambos mundos: la flexibilidad colaborativa con herramientas de estructura de datos profesionales.
+
+**Para más información:**
+- [Ayuda oficial de Google Sheets: Tablas](https://support.google.com/docs/answer/...)
+- [Novedades en Google Sheets 2025](https://workspace.google.com/blog/)
 
 ---
 
