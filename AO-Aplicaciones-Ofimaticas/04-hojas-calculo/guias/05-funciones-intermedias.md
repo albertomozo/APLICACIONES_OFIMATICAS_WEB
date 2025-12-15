@@ -246,6 +246,11 @@ Sumar todas las ventas del vendedor “María” en el mes de enero.
 
 ---
 
+# ANEXO 
+
+[curso excel - funciones logicas ](https://www.youtube.com/watch?v=XVdoHILr1gg&list=PLcKbSbJyOGOYVK5ey5vErm19tdvAvQSer&index=33)
+
+
 ## MULTIPLES CONDICIONES 
 
 Para realizar multiples comparaciones, podemos usar los SI anidados
