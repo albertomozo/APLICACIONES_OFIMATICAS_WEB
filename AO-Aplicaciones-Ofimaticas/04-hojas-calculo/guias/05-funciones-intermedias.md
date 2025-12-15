@@ -246,3 +246,16 @@ Sumar todas las ventas del vendedor “María” en el mes de enero.
 
 ---
 
+## MULTIPLES CONDICIONES 
+
+Para realizar multiples comparaciones, podemos usar los SI anidados
+
+![si anidados](imagenes/05-SI-anidado.png)
+
+Esta solución no es escalable facilmente, ya que si añadimos un nuevo intervalo o cambiamos los valores debemos modificar las formulas. Podemos usar la tecnica de usar un rango de valores que nos establezcan los limites y usar las funciones de busqueda BUSCAR
+
+![funciones busqueda](imagenes/05-BUSCAR.png)
+
+## ANEXO
+
+[Busqueda de datos](../recursos/Datos_Validación_BUSCARV.pdf)

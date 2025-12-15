@@ -228,4 +228,3 @@ Genera un mini-gráfico dentro de una celda con la tendencia de ventas de un ven
 > 🎯 **Idea clave:**
 > Dominar los gráficos permite convertir datos en historias. Excel ofrece un acabado profesional; Google Sheets destaca en simplicidad y rapidez.
 
-S

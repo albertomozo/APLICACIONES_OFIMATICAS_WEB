@@ -1,0 +1,22 @@
+# TEMAS INCOMPLETOS    
+
+- Inmovilizar paneles: explicar cuándo y cómo usar Inmovilizar paneles para mantener encabezados o columnas visibles.
+- Proteger celdas y hojas: bloquear celdas con fórmulas, proteger hojas con contraseña y gestionar permisos de edición.
+- Validación de datos: reglas, listas desplegables, mensajes de entrada y manejo de entradas inválidas.
+- Rangos con nombre: creación y uso de rangos con nombre para referencias más claras y fórmulas mantenibles.
+- Tablas estructuradas: uso de Tablas (filtrar, ordenar, referencias estructuradas, controlar formato y totales).
+- Auditoría de fórmulas: rastrear precedentes/dependientes, mostrar fórmulas, evaluar fórmula paso a paso.
+- Manejo de errores en fórmulas: uso de IFERROR, IFNA, y estrategias para detectar y presentar errores.
+- Funciones avanzadas modernas: XLOOKUP/BUSCARX, FILTER, UNIQUE, SEQUENCE (según plataforma).
+- Automatización y macros: grabar macros, introducir conceptos de VBA o Apps Script para tareas repetitivas.
+- Power Query / Importar y transformar: limpieza y transformación de datos externos (unir, pivotar, normalizar).
+- Modelos de datos y Power Pivot: relaciones entre tablas, medidas con DAX (si el público usa Excel avanzado).
+- Slicers y segmentación: controles interactivos para filtrar tablas y tablas dinámicas.
+- Escenarios, Solver y análisis de hipótesis: uso de Escenarios, Buscar objetivo y Solver para decisiones.
+- Control de versiones y colaboración: historial de cambios, comentarios, coautoría y resolución de conflictos.
+- Privacidad y protección de datos: ocultar/mostrar hojas, ocultar fórmulas, eliminar metadatos antes de compartir.
+- Impresión y presentación avanzada: áreas de impresión, saltos de página, encabezados/pies y ajustes para PDF.
+- Rendimiento y buenas prácticas: evitar volátiles innecesarios, diseñar hojas escalables y optimizar cálculos.
+- Filtros avanzados y subtotales: filtros personalizados, subtotales y consolidación de datos.
+- Atajos y productividad: lista de atajos clave y trucos para acelerar el trabajo en hojas de cálculo.
+- Internacionalización y formatos: separadores decimales, formatos de fecha y problemas de localización al importar CSV.

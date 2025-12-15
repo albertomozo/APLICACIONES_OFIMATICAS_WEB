@@ -1,8 +1,5 @@
-## 📝 Ejercicio Práctico de Hojas de Cálculo (UD 4)
-
-El objetivo de esta prueba es que los alumnos demuestren su habilidad para manejar referencias entre hojas, aplicar funciones lógicas y de búsqueda (`BUSCARV`, `INDICE+COINCIDIR`, etc.), y utilizar formatos condicionales.
-
-### **Título del Ejercicio: Sistema Básico de Facturación en Google Sheets**
+# **Prueba Practica Final UD04 -HOJAS DE CALCULO**
+### **Sistema Básico de Facturación en Google Sheets / Excel**
 
 ### **Objetivo:**
 
