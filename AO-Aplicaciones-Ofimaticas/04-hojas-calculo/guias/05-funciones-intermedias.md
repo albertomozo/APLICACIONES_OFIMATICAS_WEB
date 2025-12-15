@@ -263,4 +263,4 @@ Esta solución no es escalable facilmente, ya que si añadimos un nuevo interval
 
 ## ANEXO
 
-[Busqueda de datos](../recursos/Datos_Validación_BUSCARV.pdf)
+[Busqueda de datos](../recursos/Datos_Validacion_BUSCARV.pdf)
