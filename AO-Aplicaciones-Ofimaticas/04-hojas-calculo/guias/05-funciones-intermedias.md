@@ -264,3 +264,5 @@ Esta solución no es escalable facilmente, ya que si añadimos un nuevo interval
 ## ANEXO
 
 [Busqueda de datos](../recursos/Datos_Validacion_BUSCARV.pdf)
+
+![Google sheets - listas](imagenes/05-google-sheets-validacion.png)

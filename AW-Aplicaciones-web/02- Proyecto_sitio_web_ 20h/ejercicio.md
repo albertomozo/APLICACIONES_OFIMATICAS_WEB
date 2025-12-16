@@ -299,3 +299,13 @@ Categorías:
 * Árabe
 
 
+##  ANEXO
+
+![Boceto](materiales/categorias.png)
+
+[Guia wordpress para el ejercicio](https://github.com/albertomozo/APLICACIONES_OFIMATICAS_WEB/blob/main/AW-Aplicaciones-web/02-%20Proyecto_sitio_web_%2020h/materiales/WordPress_Guia_Visual.pdf)
+
+[Video Enunciado](https://youtu.be/IIdot3FWKrYtoutube)
+
+
+
