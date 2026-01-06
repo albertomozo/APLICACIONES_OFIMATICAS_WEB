@@ -83,6 +83,9 @@ Además, incorpora:
 
 ---
 
+[Video Dashboard - Tablero de mandos en excel](https://www.youtube.com/watch?v=V1wC6FVPifU)
+
+
 ## 🟢 Google Sheets: Editor lateral simplificado
 
 Sheets abre un panel lateral con dos secciones:
