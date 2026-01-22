@@ -8,7 +8,7 @@ Esta tabla es la pieza clave para que tus alumnos entiendan el **"porqué"** de 
 | **Gestión de Tareas** | Saber qué hay que hacer, quién es el responsable y la fecha límite. | **Trello** (Tableros visuales) o **Asana**. |
 | **Documentación y Wiki** | Centralizar manuales, procesos y notas de reuniones en un solo lugar. | **Notion** o **Google Workspace**. |
 | **Gestión de Datos/CRM** | Organizar listas de clientes, inventarios o presupuestos de forma relacional. | **Airtable** (Base de datos fácil) o **HubSpot Free**. |
-| **Diseño Colaborativo** | Crear presentaciones, posts o carteles entre varios miembros. | **Canva Teams** o **Figma**. |
+| **Diseño Colaborativo** | Crear presentaciones, posts o carteles entre varios miembros. | **Canva Teams** o **Figma** o **Gamma** . |
 | **Almacenamiento Cloud** | Compartir archivos pesados y mantener versiones de documentos. | **Google Drive** o **Nextcloud** (Nube privada). |
 | **Automatización** | Conectar herramientas entre sí (ej: que un aviso de WordPress llegue a Slack). | **Zapier** o **Make** (Nivel avanzado). |
 

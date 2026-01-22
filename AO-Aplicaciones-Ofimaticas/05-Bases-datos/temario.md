@@ -1,8 +1,4 @@
-La organización de un curso de 40 horas que integre la teoría relacional (utilizando Access como herramienta principal) con un enfoque en red y la introducción a plataformas web como Notion o Airtable requiere un equilibrio cuidadoso entre la teoría fundamental y la aplicación práctica moderna.
-
-El material de origen proporciona una base sólida en el **Modelo Relacional** (concepto de dato, modelos conceptual, lógico y físico, y normalización), además de incluir referencias a entornos de red y tipos de bases de datos no relacionales (**SQL vs. NoSQL**, MongoDB, bases de datos orientadas a documentos/grafos).
-
-A continuación, se presenta una posible estructura modular para el curso de 40 horas, dividida en cuatro módulos temáticos principales:
+estructura modular para el curso de 40 horas, dividida en cuatro módulos temáticos principales:
 
 ---
 
