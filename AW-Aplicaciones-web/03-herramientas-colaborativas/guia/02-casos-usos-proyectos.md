@@ -61,4 +61,3 @@ Cada grupo tendrá **20 minutos** para exponer. Te sugiero que les pidas que sig
 3. **Demo en Vivo (10 min):** **(La parte más importante)**. Entran a la herramienta y muestran: "Aquí están nuestras tareas, así nos comunicamos, así guardamos los archivos".
 4. **Lecciones Aprendidas (5 min):** "¿Qué fue lo más difícil de colaborar en digital?"
 
-**¿Te gustaría que prepare una "Rúbrica de Evaluación" para que puedas calificar estas presentaciones de forma objetiva?**

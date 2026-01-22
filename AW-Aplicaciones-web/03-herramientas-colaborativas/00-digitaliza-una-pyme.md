@@ -1,4 +1,4 @@
-    ¡Me encanta ese enfoque! Es mucho más realista y motivador. Si ya saben WordPress y HTML, tienen la base técnica perfecta para entender que "la nube" son solo aplicaciones corriendo en servidores.
+    
 
 En el mundo laboral actual, más allá de escribir documentos, lo que se busca es **gestionar flujos de trabajo, comunicación y datos**. Aquí tienes una propuesta para transformar ese temario rancio en un **"Desafío de Transformación Digital"**.
 

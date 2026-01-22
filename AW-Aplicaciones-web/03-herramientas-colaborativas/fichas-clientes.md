@@ -100,14 +100,3 @@ Deben entregar un **"Manual de Bienvenida Digital"**. Puede ser:
 * Un espacio de **Notion** público que sirva de guía para los empleados de la empresa ficticia.
 
 ---
-
-### 🎨 Material Gráfico de Apoyo
-
-He generado una imagen que muestra cómo estas herramientas "encajan" como piezas de un puzzle para resolver estos casos. Puedes usarla para ilustrar la explicación de los retos.
-
-{
-"action": "image_generation",
-"action_input": "An infographic-style illustration showing 3 different business icons: a stethoscope (vet), a house key (real estate), and a leaf (NGO). Arrows from these icons point to a central digital hub where colorful icons of checklists, calendars, and chat bubbles interlock like puzzle pieces. Clean, professional, 3D isometric style, friendly colors."
-}
-
-**¿Te gustaría que redactara una rúbrica de evaluación sencilla para que los alumnos sepan exactamente qué puntos técnicos (seguridad, colaboración, orden) vas a valorar?**

@@ -16,6 +16,8 @@ Aquí es crucial modernizar, pasando de Access (opcional) a **bases de datos má
 
 ##  DOCUMENTACION
 
+[De Hojas de Cálculo a Bases de datos](https://gamma.app/docs/De-Hojas-de-Calculo-Relacionadas-a-Bases-de-Datos-Relacionales-zh64hy7lmiqq3fe)
+
 [Introducción a las Bases de datos](https://gamma.app/docs/Introduccion-a-las-Bases-de-Datos-zymxheqffkxfclt)
 
 [Los datos y Almacenamiento](https://gamma.app/docs/El-Mundo-de-los-Datos-y-su-Almacenamiento-Informatico-trdklg9myqgp0hj)
