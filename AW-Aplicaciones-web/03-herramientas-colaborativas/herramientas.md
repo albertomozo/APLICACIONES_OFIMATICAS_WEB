@@ -55,12 +55,6 @@ Como ya saben algo de código, estas herramientas les permiten trabajar en el mi
 * **Replit / CodePen:** Editores de código en línea donde pueden programar HTML/CSS en pareja en tiempo real.
 
 
-¡Excelente idea! Las automatizaciones son el siguiente nivel lógico: permiten que las herramientas que ya conocen se "hablen" entre sí sin que ellos tengan que hacer nada manual.
-
-He actualizado el esquema para incluir este nuevo grupo y **he creado una nota** con toda la información y los enlaces correspondientes para que puedas compartirla con tus alumnos.
-
-Aquí tienes el esquema actualizado con la nueva sección:
-
 ### 6. Automatizaciones (El "Pegamento" Digital)
 
 Estas herramientas sirven para conectar aplicaciones. Por ejemplo: "Si alguien rellena un formulario en mi **WordPress**, crea automáticamente una tarjeta en **Trello** y avísame por **Slack**".
