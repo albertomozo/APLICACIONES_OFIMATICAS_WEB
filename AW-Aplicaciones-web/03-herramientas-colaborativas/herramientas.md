@@ -64,6 +64,7 @@ Estas herramientas sirven para conectar aplicaciones. Por ejemplo: "Si alguien r
 * **Make (antes Integromat):** Muy visual, permite crear flujos complejos de forma gráfica. [https://www.make.com](https://www.make.com)
 
 
+![esquema heramientas colaborativas](herramientas_inf.png)
 
  **Nota para 2026:** Casi todas estas herramientas ya incluyen **Asistentes de IA** (como Copilot o Gemini) que les ayudarán a resumir reuniones, escribir borradores de correos o incluso corregir errores en su HTML automáticamente.
 
