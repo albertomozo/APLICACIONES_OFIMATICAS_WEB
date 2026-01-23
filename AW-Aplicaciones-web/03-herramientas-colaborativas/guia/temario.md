@@ -13,6 +13,7 @@
 • Ideación visual: Talleres de lluvia de ideas en Miro o FigJam, utilizando lienzos infinitos para mapas mentales y diagramas de flujo.
 • Diseño colaborativo: Introducción a Figma para equipos que necesitan prototipar interfaces o recursos visuales sin depender de archivos estáticos.
 Bloque 4: Automatización, IA y Evaluación (4 Horas)
+
 🕒 Bloque 4: Ecosistemas Integrados e Inteligencia Artificial (4 Horas)
 El objetivo de este bloque es que los alumnos pasen de ser "usuarios de apps" a "arquitectos de flujos de trabajo".
 

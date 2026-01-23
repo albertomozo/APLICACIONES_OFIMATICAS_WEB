@@ -19,7 +19,7 @@ No todas las IAs sirven para lo mismo. Para empezar, deben conocer las tres cate
 * **Runway / Pika:** Para generar clips de vídeo cortos desde un texto.
 * **Suno / Udio:** Para crear música o fondos sonoros para sus proyectos.
 
-
+![IA generativa top 2026](intro_IA.png)
 
 ---
 
@@ -47,12 +47,12 @@ Esta es la herramienta más potente de Google para aprender. A diferencia de Cha
 
 
 
-> **Uso práctico para el curso:** Diles que suban todos los esquemas que les has dado hasta ahora a NotebookLM. Así tendrán un tutor privado que conoce exactamente lo que tú les has enseñado.
+> **Uso práctico para el curso:**  Subir  todos los esquemas que les has dado hasta ahora a NotebookLM. Así tendrán un tutor privado que conoce exactamente lo que tú les has enseñado.
 
 ---
 
-¿Te gustaría que prepare una **guía rápida de "Primeros Pasos en NotebookLM"** para que tus alumnos la sigan paso a paso en su primera sesión?
+
 
 [Dominar NotebookLM en 2026](https://www.youtube.com/watch?v=b2fGNHPlUGA)
 
-Este videotutorial te permitirá mostrar visualmente a tus alumnos cómo organizar sus fuentes de estudio y generar resúmenes automáticos para aprovechar al máximo esta herramienta de Google.
+Añade este enlace a un cuaderno de NOTEBOOKLM e investiga sobre el mismo. El video esta en ingles pero vas a poder trabarlo como si estiviera en español.
