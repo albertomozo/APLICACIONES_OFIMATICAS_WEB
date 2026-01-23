@@ -31,6 +31,8 @@ Entender los fundamentos de la imagen digital es esencial para manipularlas corr
   - **PNG**: Soporta transparencia y compresión sin pérdida. Ideal para gráficos con fondos transparentes o texto. Definición: Mantiene la calidad original, pero archivos más grandes que JPG.
   - **SVG**: Formato vectorial escalable, perfecto para iconos y gráficos que se redimensionan sin perder calidad. Definición: Basado en vectores (líneas y curvas matemáticas), no en píxeles, lo que lo hace ideal para web responsiva.
 
+  ![tipos imagenes](recursos/infografias/01-tipos-imagenes.png)
+
 - **Modelos de Color**:
   - **RGB (Red, Green, Blue)**: Modelo aditivo usado en pantallas digitales (web, monitores). Combina rojo, verde y azul para crear colores. Definición: Cada color se representa con valores de 0-255 por canal.
   - **CMYK (Cyan, Magenta, Yellow, Black)**: Modelo sustractivo para impresión. Usa tintas para absorber luz. Definición: Diferencia clave con RGB: RGB emite luz, CMYK refleja; conversiones entre modelos pueden alterar colores.
@@ -58,3 +60,11 @@ Usar recursos libres evita problemas legales y fomenta la creatividad ética.
 - **Bancos de Imágenes Gratuitos**:
   - **Unsplash**: Biblioteca de fotos de alta calidad libres de derechos, con licencia CC0.
   - **Pexels**: Similar a Unsplash, ofrece imágenes y vídeos gratuitos para uso comercial y personal. Justificación: Proporcionan recursos de calidad sin costo, ideales para proyectos educativos y profesionales, siempre citando la fuente si es requerido.
+
+  ![resumen imagenes](recursos/infografias/99-resume.png)
+
+  
+
+  ### ENLACES
+
+  [Imagenes en el diseño web](https://docs.google.com/presentation/d/1izevuJu99f5T8hneO6xV5EIcwXwNsuUbQCBZVzJWPgg/edit?usp=sharing)
