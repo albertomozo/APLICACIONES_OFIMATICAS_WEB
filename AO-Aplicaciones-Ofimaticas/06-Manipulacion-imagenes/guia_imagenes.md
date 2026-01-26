@@ -22,6 +22,29 @@ Las herramientas de edición rápida en la nube permiten manipular imágenes sin
 
 Entender los fundamentos de la imagen digital es esencial para manipularlas correctamente, ya que afecta la calidad, el tamaño del archivo y su uso final.
 
+#### Propiedades Fundamentales de las Imágenes
+
+| Propiedad | Descripción | Ejemplo/Valor Típico | Uso Principal |
+|-----------|-------------|----------------------|---------------|
+| **Resolución (DPI/PPI)** | Densidad de puntos o píxeles por pulgada. DPI para impresión, PPI para pantallas. | 72-96 PPI (web), 300 DPI (impresión) | Determina la nitidez; alta resolución para impresión, baja para web. |
+| **Tamaño (Dimensiones)** | Ancho y alto en píxeles. | 1920x1080 px (Full HD) | Define el espacio ocupado; afecta el peso del archivo. |
+| **Formato** | Tipo de archivo que determina compresión y características. | JPG, PNG, SVG | JPG para fotos, PNG para transparencia, SVG para vectores. |
+| **Modelo de Color** | Sistema para representar colores. | RGB (pantallas), CMYK (impresión) | RGB para web, CMYK para impresión. |
+| **Profundidad de Bits** | Número de bits por píxel, determina gama de colores. | 24 bits (16.7M colores) | Mayor profundidad = más colores, archivos más grandes. |
+| **Tamaño del Archivo** | Peso en bytes del archivo. | 1-5 MB para fotos | Afecta carga web; optimizar para reducir. |
+| **Relación de Aspecto** | Proporción ancho:alto. | 16:9 (pantalla), 4:3 (foto) | Mantiene proporciones al redimensionar. |
+
+#### Tabla de Referencia por Uso de la Imagen
+
+| Uso | Resolución (DPI/PPI) | Dimensiones Máximas (Ejemplo) | Formato Recomendado | Modelo de Color | Notas |
+|-----|----------------------|-------------------------------|----------------------|-----------------|-------|
+| **Bruto (Original)** | 300-600 DPI | Variable (alta resolución) | RAW, TIFF, PSD | RGB o CMYK | Imagen sin procesar, máxima calidad para edición posterior. |
+| **Web** | 72-96 PPI | 1920x1080 px (Full HD) | JPG, PNG, WebP | RGB | Optimizado para carga rápida; comprimir para reducir tamaño. |
+| **Imprenta (Papel)** | 300 DPI | A4: 2480x3508 px | JPG, TIFF, PDF | CMYK | Alta resolución para evitar pixelación; convertir a CMYK. |
+| **Lona (Fachadas de Edificios)** | 50-100 DPI | Variable (ej. 20000x12000 px, aprox. 5x3 m a 100 DPI) | JPG, TIFF | CMYK | Para vistas lejanas; resolución baja para archivos manejables. |
+| **Redes Sociales** | 72-96 PPI | Instagram: 1080x1080 px | JPG, PNG | RGB | Cuadrado o vertical; optimizar para vista móvil. |
+| **Email** | 72-96 PPI | 600-800 px ancho | JPG, PNG | RGB | Pequeño tamaño para compatibilidad; evitar archivos grandes. |
+
 - **Resolución (DPI/PPI)**: La resolución mide la densidad de puntos o píxeles por pulgada (DPI para impresión, PPI para pantallas). Una resolución alta (ej. 300 DPI) es necesaria para impresión de alta calidad, mientras que para web basta con 72-96 PPI. Definición: Es la cantidad de detalle en una imagen; mayor resolución significa más nitidez pero archivos más grandes.
 
 - **Píxeles**: Unidad básica de una imagen digital, representada como un punto de color. Una imagen se compone de una cuadrícula de píxeles. Definición: Cada píxel contiene información de color (en modelos como RGB), y el número total determina el tamaño y la calidad de la imagen.
@@ -68,3 +91,8 @@ Usar recursos libres evita problemas legales y fomenta la creatividad ética.
   ### ENLACES
 
   [Imagenes en el diseño web](https://docs.google.com/presentation/d/1izevuJu99f5T8hneO6xV5EIcwXwNsuUbQCBZVzJWPgg/edit?usp=sharing)
+
+  [Bancos de Imagenes](https://docs.google.com/spreadsheets/d/1iL1HDkus-yp6Nm32usuM77GHIoWbKIi7Rcbw0-P6cBc/edit?usp=sharing)
+
+  [Identidad Visual](https://gamma.app/docs/Que-es-una-Identidad-Visual-j03h1g1lachizdn?mode=doc)
+

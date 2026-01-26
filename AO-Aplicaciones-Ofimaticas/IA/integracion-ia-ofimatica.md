@@ -1,12 +1,7 @@
-**Inteligencia Artificial (IA) generativa** es el componente más moderno que puedes incorporar y tu enfoque de **"IA sin base sólida complica el mantenimiento"** es crucial para formar profesionales responsables.
-
-
-
----
 
 ## 🤖 Integración de la IA Generativa en Aplicaciones Ofimáticas
 
-El objetivo es enseñar a los alumnos a utilizar la IA como un **asistente de productividad**, pero a la vez, como una **herramienta de validación**.
+El objetivo es enseñar a los alumnos a utilizar la IA como un **asistente de productividad**, pero a la vez, como una *herramienta de validación**.
 
 ### 1. 🖼️ UD 6: Manipulación de Imágenes (15 h)
 
@@ -45,6 +40,12 @@ Puedes introducir esta regla al inicio y recordarla en cada unidad:
 1.  **Contexto:** Siempre darle a la IA el contexto completo (el objetivo del documento, el público, el formato, los datos de origen). **Sin contexto, la salida es genérica e inútil.**
 2.  **Crítica:** El usuario es el editor y el validador final. **Nunca asumir que la salida es 100% correcta.**
 3.  **Comprobación (Mantenimiento):** Si la IA genera código, fórmulas o estructuras, el usuario debe saber **leerlo** y **mantenerlo/depurarlo**. Un trabajo generado por IA que el usuario no entiende es un **pasivo** (una deuda técnica) a futuro.
+
+
+###  ENALACES
+
+[IA por uso](https://www.linkedin.com/posts/briascoi_deja-de-usar-la-ia-equivocada-para-el-trabajo-activity-7421501927391236097-zsHv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAKxBMYBuh46NL0tOjl0ExLVpV7I9hMJjUw)
+
 
 
 
