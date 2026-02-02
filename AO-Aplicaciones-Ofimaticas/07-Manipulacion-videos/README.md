@@ -422,3 +422,5 @@ AVANZADO
 **Última actualización:** 26 de enero de 2026  
 **Duración del módulo:** 15 horas  
 **Responsable:** CPOP - Cursos Prácticos de Ofimática y Programación
+
+(presentación guión )[https://gamma.app/docs/Como-Crear-un-Video-con-Enganche-en-Internet-1w8gpl5dskeoyvb]
