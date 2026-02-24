@@ -84,6 +84,16 @@ Aquí es donde el enfoque dual se vuelve más importante.
         * 🟢 **[Google Sheets]:** Un panel lateral "Editor de tablas dinámicas" que usa "Sugerencias" (IA) y áreas para "Añadir".
     * Ambas plataformas usan **Segmentación de Datos (Slicers)**, que son filtros visuales.
 
+### Módulo 9: Integración con Inteligencia Artificial (Aprox. 4 horas)
+
+* **Concepto:** Cómo la IA mejora la productividad en hojas de cálculo.
+* **Enfoque Dual: Asistentes IA**
+    * 🔵 **[Excel]:** Microsoft Copilot para generar fórmulas, analizar datos y automatizar tareas.
+    * 🟢 **[Google Sheets]:** Google Gemini para insights, visualizaciones y colaboración inteligente.
+* **Ejemplo Práctico:** Usar IA para crear resúmenes automáticos o gráficos basados en datos.
+
+[📕 Modulo 9](09-integracion-ia.md)
+
 ---
 
 ## Tabla Resumen para tu Documentación (El "Alcance")
