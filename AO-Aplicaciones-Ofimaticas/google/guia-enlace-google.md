@@ -69,5 +69,7 @@ Para que cualquiera de estos trucos funcione, debes cumplir estos dos requisitos
 
 ![Google Drive links anatomy guide showing URL structure and command examples](https://drive.google.com/file/d/1NMbPEbyZ5MXFMAPTXarCjoWGYJPSJu7F/preview)
 
+![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1NMbPEbyZ5MXFMAPTXarCjoWGYJPSJu7F)
+
 > **Consejo extra:** Si el enlace te queda muy largo (especialmente los de exportar), pásalo por un acortador como **Bitly** o **TinyURL**. Quedará mucho más elegante.
 
