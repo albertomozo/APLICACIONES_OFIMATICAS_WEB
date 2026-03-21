@@ -71,5 +71,8 @@ Para que cualquiera de estos trucos funcione, debes cumplir estos dos requisitos
 
 ![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1NMbPEbyZ5MXFMAPTXarCjoWGYJPSJu7F)
 
+![Descripción de la imagen](https://private-user-images.githubusercontent.com/79279132/567262018-76d29a91-b70d-47ef-bdde-029843aa6a9e.png)
+
+
 > **Consejo extra:** Si el enlace te queda muy largo (especialmente los de exportar), pásalo por un acortador como **Bitly** o **TinyURL**. Quedará mucho más elegante.
 
