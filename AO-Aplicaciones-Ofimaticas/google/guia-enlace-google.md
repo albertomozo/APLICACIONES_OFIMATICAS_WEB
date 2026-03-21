@@ -71,7 +71,7 @@ Para que cualquiera de estos trucos funcione, debes cumplir estos dos requisitos
 
 ![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1NMbPEbyZ5MXFMAPTXarCjoWGYJPSJu7F)
 
-![Descripción de la imagen](https://private-user-images.githubusercontent.com/79279132/567262018-76d29a91-b70d-47ef-bdde-029843aa6a9e.png)
+![Guía de Enlaces de Google Workspace](https://private-user-images.githubusercontent.com/79279132/567262018-76d29a91-b70d-47ef-bdde-029843aa6a9e.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzQwOTM4ODQsIm5iZiI6MTc3NDA5MzU4NCwicGF0aCI6Ii83OTI3OTEzMi81NjcyNjIwMTgtNzZkMjlhOTEtYjcwZC00N2VmLWJkZGUtMDI5ODQzYWE2YTllLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzIxVDExNDYyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI1NzdiZmI3YzFkNTNmZTQzNjM4ZDEwZTE4ZjhiZGNkNDViMjMyMjRiM2U5NDQ0NmI0YmI1OWY0YzAxMDg0ODImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.2DE39CD3X5hi4LcHTt0QrR3gxz-t1kRiHVTgzyVbnak)
 
 
 > **Consejo extra:** Si el enlace te queda muy largo (especialmente los de exportar), pásalo por un acortador como **Bitly** o **TinyURL**. Quedará mucho más elegante.
